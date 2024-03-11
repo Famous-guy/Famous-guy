@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![Famous-guy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Famous-guy&theme=gruvbox&show_icons=true&hide_border=true&layout=compact) <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=Famous-guy&theme=onedark)
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,dart,flutter,html,react,nodejs,firebase,css,scss,mongodb,js)
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,dart,flutter,html,react,nodejs,firebase,css,scss,mongodb,js,graphql,c++,sh,bash,bin,solidity,rust,motoko,go)
 ![metrics](https://metrics.lecoq.io/insights/Famous-guy)
 
 
