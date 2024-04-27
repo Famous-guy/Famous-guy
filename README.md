@@ -2,7 +2,7 @@
 - 👀 I’m interested in web 3.0
 - 🌱 I’m currently learning cyber security on Ethical hacking
 - 💞️ I’m looking to collaborate on projects that will shake the world
-
+![image title](https://rushter.com/counter.svg)
 <!--- 📫 How to reach me ...
 
 <!---
