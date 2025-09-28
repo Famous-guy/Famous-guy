@@ -8,7 +8,7 @@
 Famous-guy/Famous-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://wakatime.com/badge/user/1e12b9c2-fc2d-4464-a69a-ae17e1fa59cd/project/ede7269d-ed7b-4be5-84ee-a3a71b76c99a.svg
+[![wakatime](https://wakatime.com/badge/user/1e12b9c2-fc2d-4464-a69a-ae17e1fa59cd/project/ede7269d-ed7b-4be5-84ee-a3a71b76c99a.svg)](https://wakatime.com/badge/user/1e12b9c2-fc2d-4464-a69a-ae17e1fa59cd/project/ede7269d-ed7b-4be5-84ee-a3a71b76c99a)
 
 ![Famous-guy's Stats](https://github-readme-stats.vercel.app/api?username=Famous-guy&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 <br>
