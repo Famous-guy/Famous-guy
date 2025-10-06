@@ -1,113 +1,92 @@
-# 👨‍💻 Gideon — Mobile Engineer | Backend Enthusiast | Web3 Innovator
+# 👋 Hey, I'm Gideon
 
-Welcome to my portfolio!  
-I’m **Gideon**, a passionate **Mobile Engineer** who loves turning complex ideas into smooth, elegant, and high-performance digital products.  
-With experience spanning **Flutter**, **FastAPI**, and **Web3**, I focus on building scalable systems that balance functionality, performance, and clean design.
-
----
-
-## 🚀 About Me
-
-I’m driven by a passion for technology that makes life simpler.  
-From crafting sleek **Flutter mobile apps** to architecting robust **FastAPI backends**, I bridge design and logic to deliver complete digital experiences.  
-
-My journey started in **frontend development**, but curiosity and real-world project needs led me into **backend architecture**, **API design**, and **blockchain integration** — allowing me to build full-stack solutions that scale.
+I’m a **Mobile Engineer** who loves building smooth, fast, and meaningful products.  
+I mostly work with **Flutter** on the frontend and **Go (Golang)** on the backend.  
+Over time, I’ve learned to balance clean code with real-world practicality — things that actually scale and make users happy.
 
 ---
 
-## 🧩 What I Do
+## 🚀 A Bit About Me
 
-### 📱 Mobile Development
-- Build and deploy high-performance Flutter apps (iOS, Android, Web)
-- Implement **Clean Architecture** for scalability and maintainability
-- Create engaging UI/UX with custom animations and state management (Cubit, Riverpod)
-- Integrate RESTful and WebSocket APIs for real-time experiences
+I started out writing frontend code and building UI stuff for fun.  
+That curiosity pushed me deeper into how things work behind the scenes — so I picked up backend development with Go, where I now focus on writing efficient and maintainable APIs.  
 
-### ⚙️ Backend Development
-- Design and implement APIs using **FastAPI** and **MongoDB**
-- Handle authentication with **JWT**, password hashing, and OTP flows
-- Build modular backend systems following a **controller-router-usecase** pattern
-- Optimize performance using async I/O and caching layers
-
-### 🔗 Web3 & Blockchain
-- Interact with **Solana blockchain** using **TypeScript** and on-chain programs
-- Integrate crypto wallets and smart contract interactions
-- Design hybrid systems that merge Web2 backends with Web3 functionality
-
-### 🧠 System Architecture & Code Quality
-- Apply **Clean Architecture** principles to Flutter and backend systems
-- Use domain-driven design (DDD) to separate concerns and improve reusability
-- Employ efficient error handling, testing, and CI/CD workflows
+I like solving problems, experimenting with architecture, and working on products that impact people.  
+When I’m not coding, I’m probably learning something new or improving something old.
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 What I Work On
 
-| Category | Tools & Frameworks |
-|-----------|--------------------|
-| **Frontend / Mobile** | Flutter, Dart, TypeScript |
-| **Backend** | FastAPI, Python, Node.js (Basics) |
-| **Database** | MongoDB, Firebase, SQLite |
-| **Blockchain** | Solana Web3.js, Metaplex |
-| **Architecture** | Clean Architecture, MVC, Layered Design |
-| **Other Tools** | Git, Docker, Postman, Figma, VS Code |
+### 📱 Mobile
+- Building cross-platform apps with **Flutter**
+- Writing clean, structured code with **Cubit** and **Clean Architecture**
+- Crafting smooth UI/UX with custom animations and transitions
+- Integrating APIs, sockets, and real-time data streams
 
----
+### ⚙️ Backend
+- Writing fast, reliable APIs using **Golang**
+- Structuring projects with clear separation (handlers, usecases, repositories)
+- Working with **MongoDB**, **PostgreSQL**, and sometimes **Redis**
+- Handling authentication, tokens, and secure user flows
 
-## 📂 Featured Projects
-
-### 🩺 TeleMama — *Telemedicine for Expectant Mothers*
-A mobile solution connecting doctors with pregnant and expectant mothers.  
-**Features:**  
-- Real-time doctor-patient messaging  
-- Drug administration and reminders  
-- Secure medical record management  
-- Backend built with **FastAPI** + **MongoDB**
+### 🌐 Web3 / Blockchain
+- Exploring **Solana** and decentralized tech
+- Building small projects that connect Web2 apps with Web3 systems
+- Experimenting with wallet integrations and smart contract logic
 
 ---
 
-### 💸 Zia Capital — *Digital Savings Platform*
-A fintech app for seamless saving, withdrawal, and investment.  
-**Highlights:**  
-- Built with **Flutter** and **Clean Architecture**  
-- Integrated APIs for bank verification and transactions  
-- Smooth onboarding and secure authentication system  
+## 🧰 My Tech Stack
+
+| Area | Tools I Use |
+|------|--------------|
+| **Mobile** | Flutter, Dart |
+| **Backend** | Go (Golang), Fiber, Echo |
+| **Database** | MongoDB, PostgreSQL, Redis |
+| **Web3** | Solana Web3.js, Metaplex |
+| **Others** | Docker, Git, Postman, Figma |
 
 ---
 
-### 🌐 Solana Pay Integration Demo
-A real-time payment and NFT verification system using Solana’s ecosystem.  
-**Tech Used:**  
-- Solana Web3.js, Dart SDK  
-- FastAPI middleware for transaction logging  
-- Wallet connection + confirmation flow  
+## 🧠 Projects
+
+### 🩺 **TeleMama**
+A mobile solution connecting doctors and pregnant mothers for better communication.  
+Built with Flutter and Go — includes messaging, health tracking, and medication reminders.
+
+### 💸 **Zia Capital**
+A digital savings platform that makes saving and investing simple.  
+Built using **Flutter**, **Node.js**, and **Postgressql**.  
+Handles onboarding, wallet linking, and secure transactions.
+
+### 🌐 **Solana Pay Demo**
+A small project experimenting with **Solana payments** and NFT verification.  
+Connects Go backend APIs with Solana wallets for testing real-world flows.
 
 ---
 
-## 💼 Work Philosophy
+## 💼 How I Work
 
-I value **clarity, scalability, and reliability** in every line of code.  
-My workflow focuses on:  
-- Clear communication and documentation  
-- Writing modular, testable code  
-- Using architecture that supports future growth  
-- Prioritizing performance and user experience  
+I like things that are clean, simple, and make sense.  
+I don’t rush code — I prefer to think, plan, and build something that lasts.  
+I enjoy collaborating with teams that care about quality and impact.
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let’s Connect
 
-If you’re looking for someone who can take your mobile or API idea from concept to production —  
-**I’m ready to build.**
+I’m open to collaborations, freelance projects, and meaningful tech ideas.  
+If it’s something you believe in — I’d love to hear about it.
 
 📩 **Email:** gideon.devworks@gmail.com  
 🌐 **GitHub:** [github.com/Famous-guy](https://github.com/Famous-guy)  
-💼 **LinkedIn:** *(Add your link here)*  
+💼 **LinkedIn:** *(add your link if you want)*  
 
 ---
 
-> _“Code should not only work — it should inspire confidence, scale effortlessly, and feel elegant to read.”_  
-> — **Gideon**
+> _I just like building things that work — and making them better over time._
+
 
 <!--- 📫 How to reach me ...
 
