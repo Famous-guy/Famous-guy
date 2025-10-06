@@ -6,7 +6,7 @@ Over time, I’ve learned to balance clean code with real-world practicality —
 
 ---
 
-## 🚀 A Bit About Me
+## A Bit About Me
 
 I started out writing frontend code and building UI stuff for fun.  
 That curiosity pushed me deeper into how things work behind the scenes — so I picked up backend development with Go, where I now focus on writing efficient and maintainable APIs.  
@@ -16,28 +16,28 @@ When I’m not coding, I’m probably learning something new or improving someth
 
 ---
 
-## 🧩 What I Work On
+## What I Work On
 
-### 📱 Mobile
+### Mobile
 - Building cross-platform apps with **Flutter**
 - Writing clean, structured code with **Cubit** and **Clean Architecture**
 - Crafting smooth UI/UX with custom animations and transitions
 - Integrating APIs, sockets, and real-time data streams
 
-### ⚙️ Backend
+### Backend
 - Writing fast, reliable APIs using **Golang**
 - Structuring projects with clear separation (handlers, usecases, repositories)
 - Working with **MongoDB**, **PostgreSQL**, and sometimes **Redis**
 - Handling authentication, tokens, and secure user flows
 
-### 🌐 Web3 / Blockchain
+### Web3 / Blockchain
 - Exploring **Solana** and decentralized tech
 - Building small projects that connect Web2 apps with Web3 systems
 - Experimenting with wallet integrations and smart contract logic
 
 ---
 
-## 🧰 My Tech Stack
+## My Tech Stack
 
 | Area | Tools I Use |
 |------|--------------|
@@ -49,24 +49,24 @@ When I’m not coding, I’m probably learning something new or improving someth
 
 ---
 
-## 🧠 Projects
+## Projects
 
-### 🩺 **TeleMama**
+### **TeleMama**
 A mobile solution connecting doctors and pregnant mothers for better communication.  
 Built with Flutter and Go — includes messaging, health tracking, and medication reminders.
 
-### 💸 **Zia Capital**
+### **Zia Capital**
 A digital savings platform that makes saving and investing simple.  
 Built using **Flutter**, **Node.js**, and **Postgressql**.  
 Handles onboarding, wallet linking, and secure transactions.
 
-### 🌐 **Solana Pay Demo**
+### **Solana Pay Demo**
 A small project experimenting with **Solana payments** and NFT verification.  
 Connects Go backend APIs with Solana wallets for testing real-world flows.
 
 ---
 
-## 💼 How I Work
+## How I Work
 
 I like things that are clean, simple, and make sense.  
 I don’t rush code — I prefer to think, plan, and build something that lasts.  
@@ -74,14 +74,14 @@ I enjoy collaborating with teams that care about quality and impact.
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 I’m open to collaborations, freelance projects, and meaningful tech ideas.  
 If it’s something you believe in — I’d love to hear about it.
 
-📩 **Email:** gideon.devworks@gmail.com  
-🌐 **GitHub:** [github.com/Famous-guy](https://github.com/Famous-guy)  
-💼 **LinkedIn:** *(add your link if you want)*  
+
+**Email:** gideongabriel557@gmail.com  
+**GitHub:** [github.com/Famous-guy](https://github.com/Famous-guy) 
 
 ---
 
